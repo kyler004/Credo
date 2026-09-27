@@ -1,0 +1,6 @@
+{
+  "name": "Credo - Elevate Your Finances",
+  "description": "Credo financial education platform landing page featuring interactive 3D animations, course exploration, and financial mastery tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
